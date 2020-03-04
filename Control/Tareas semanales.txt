@@ -1,0 +1,14 @@
+Prueba de personalizaciones.
+
+Avanzar con el software.
+
+Buscar solución para reindexar automatico en Koha.
+
+
+TERMINADOS O SUSPENDIDO:
+
+Documentación Symfony. SOLUCIONADO
+
+Campus y guarani. SOLUCIONADO
+
+Notebooks. EN ESPERA
